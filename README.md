@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aravind-selvaraj/)
 
-- ⚡ Fun fact **I once participated in a 48-hour hackathon and built a fully functional web application from scratch, winning the first prize in the competition.**
+- ⚡ Fun fact **I once participated in a 48-hour hackathon and built a fully functional web application from scratch, getting 10 paid users, winning the first prize in the competition.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
