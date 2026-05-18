@@ -23,7 +23,7 @@
 
 | Platform | Description |
 |----------|-------------|
-| [TapJoin](https://tapjoin.live/) | AI-powered engagement & networking platform |
+| [TapJoin](https://tapjoin.live/) | Discovery platform to Whatsapp, Telegram and more |
 | [WorkNation](https://worknation.buzz/) | Community-driven future-of-work ecosystem |
 | [WorkFrame](https://workframe.worknation.buzz/) | Workflow & productivity infrastructure platform |
 
